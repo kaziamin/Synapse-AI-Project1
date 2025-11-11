@@ -1,2 +1,3 @@
-# Synapse-AI-Project1
-Class project
+# ch3synapse
+Simple Fastapi deployment
+# Projcet to deploy on render
